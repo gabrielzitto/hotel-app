@@ -13,7 +13,7 @@ function Home() {
       <Hero>
         <Banner
           title="luxurious rooms"
-          subtitle="deluxe rooms a partir $299"
+          subtitle="Quartos de luxo a partir $299"
         >
           <Link to="/rooms" className="btn-primary">
             Nossos quartos
