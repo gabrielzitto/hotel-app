@@ -5,7 +5,7 @@ import App from "./App/App";
 import "./index.css";
 
 // import react-router-dom
-import { BrowserRouter as Router } from "react-router-dom";
+import { HashRouter as Router } from "react-router-dom";
 
 // import context
 import { RoomProvider } from "./Context/Context";
